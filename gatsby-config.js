@@ -6,22 +6,19 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
-    description: `With 10+ years of experience in various industries, I help tech
-              startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
-    siteUrl: `https://barancezayirli.com/`,
+    title: `Dong Tan Huy | Fullstack developer`,
+    author: `Dong Tan Huy`,
+    description: `With a multidisciplinary skillset honed over 4+ years in the IT industry, I believe that I can use my experience and skills to contribute to creating high-quality products that can bring financial benefit to your company as well as social benefit`,
+    siteUrl: `https://juliandong.com/`,
     social: {
-      twitter: `barancezayirli`,
+      facebook: `dongtanhuy`,
     },
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Baran Cezayirli | Technologist`,
+        name: `Dong Tan Huy | Fullstack developer`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,
