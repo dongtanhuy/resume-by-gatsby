@@ -1,5 +1,4 @@
 import React from 'react';
-import HeartIcon from '../assets/heart.svg';
 import SocialIcon from './social_icon';
 
 const Footer = ({ social }) => (
